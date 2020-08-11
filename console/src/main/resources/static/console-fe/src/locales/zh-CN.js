@@ -1,9 +1,12 @@
 /*
  * Copyright 1999-2018 Alibaba Group Holding Ltd.
+ *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
+ *
  *      http://www.apache.org/licenses/LICENSE-2.0
+ *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -219,6 +222,7 @@ const I18N_CONF = {
     queryResult: '查询结果：共查询到',
     articleMeet: '条满足要求的配置。',
     lastUpdateTime: '最后更新时间',
+    operator: '操作人',
     operation: '操作',
   },
   HistoryDetail: {
@@ -231,6 +235,7 @@ const I18N_CONF = {
     home: '归属应用:',
     actionType: '操作类型:',
     configureContent: '配置内容:',
+    operator: '操作人:',
     back: '返回',
   },
   DashboardCard: {
